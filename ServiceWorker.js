@@ -1,9 +1,9 @@
 const cacheName = "CHAOS-ShangdeGallery-0.1.0";
 const contentToCache = [
-    "Build/WebGL_2508181000.loader.js",
-    "Build/WebGL_2508181000.framework.js.unityweb",
-    "Build/WebGL_2508181000.data.unityweb",
-    "Build/WebGL_2508181000.wasm.unityweb",
+    "Build/WebGL_2508181300.loader.js",
+    "Build/WebGL_2508181300.framework.js.unityweb",
+    "Build/WebGL_2508181300.data.unityweb",
+    "Build/WebGL_2508181300.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
